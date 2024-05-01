@@ -1,5 +1,5 @@
 
 
-const LocationGuide = () => {
-  
+const LocationGuide = ({ text }) => {
+
 }

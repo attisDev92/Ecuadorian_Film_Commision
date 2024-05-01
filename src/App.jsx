@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Routes, Route } from 'react-router-dom'
 
 import esp from './i18n/esp.json'
 import eng from './i18n/eng.json'
@@ -10,6 +11,8 @@ import DocumentList from './components/DocumentList'
 import SuppliersCard from './components/SuppliersCard/SuppliersCard'
 import Footer from './components/Footer/Footer'
 import Section from './components/Section/Section'
+
+import LocationsGuide from './layouts/LocationGuide'
 
 import "./App.css"
 
@@ -62,6 +65,10 @@ function App() {
       </Section>
 
       <Footer text={text} />
+
+      <Routes>
+          <Route path='/locations_guide' element={<LocationsGuide text={text} />} />
+      </Routes>
       
     </>
   )
