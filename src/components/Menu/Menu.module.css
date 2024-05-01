@@ -1,0 +1,27 @@
+@import url(../../styles/stylesguide.css);
+
+.menu {
+  position: absolute;
+  width: 60vw;
+  right: 2rem;
+  top: 6.5rem;
+}
+
+.menu div {
+  position: inherit;
+  right: inherit;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.menu a {
+  color: var(--color-primary-0);
+  margin: 0.7rem 1rem;
+  cursor: pointer;
+}
+
+.menu a:hover {
+  text-decoration: underline var(--color-secondary-500) 4px;
+}
+

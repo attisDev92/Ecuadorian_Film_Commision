@@ -1,0 +1,100 @@
+{
+  "titulo": "Comisión Fílmica",
+  "idioma": "esp",
+  "menu": {
+    "locacion": "Locación",
+    "documentos": "Documentos",
+    "proveedores": "Directorio",
+    "contacto": "Contacto"
+  },
+  "logo": {
+    "textoAlternativo": "comisión fílmica"
+  },
+  "videoBanner": {
+    "urlVideoMp4": "#",
+    "urlVideoOgg": "#"
+  },
+  "locacionSeccion": {
+    "titulo": "Locación",
+    "parrafo": {
+     "uno": "Ecuador es uno de los lugares con mayor biodiversidad del planeta, con paisajes que van desde la alta montaña hasta el bosque tropical.",
+     "dos": "Los Andes, el Amazonas y las Islas Galápagos son todos parte de Ecuador. Estas locaciones tan diversas están muy cerca unas de otras y tienen excelentes y constantes condiciones climáticas, durante todo el año.",
+     "tres": "El Ecuador tiene una arquitectura muy rica y variada, que recuerda a distintas y pasadas épocas. Contamos con 21 aeropuertos operativos en el país, 3 de ellos, internacionales."
+    }
+  },
+  "documentosSeccion": {
+    "titulo": "Documentos",
+    "lista": [
+      {
+        "nombre": "Certificado de Inversión Audiovisual CIA.",
+        "link": "#"
+      },
+      {
+        "nombre": "Filmar en las Islas Galápagos.",
+        "link": "#"
+      },
+      {
+        "nombre": "Filmar parques nacionales o áreas protegidas.",
+        "link": "#"
+      },
+      {
+        "nombre": "Protocolo de uso de drones.",
+        "link": "#"
+      },
+      {
+        "nombre": "Protocolo alquiler locaciones estatales.",
+        "link": "#"
+      },
+      {
+        "nombre": "Visas de trabajo temporales.",
+        "link": "#"
+      },
+      {
+        "nombre": "Importación temporal de equipos.",
+        "link": "#"
+      }  
+    ]
+  },
+  "proveedoresSeccion": {
+    "titulo": "Directorio",
+    "proveedores": [
+      {
+        "nombre": "Asociación de productores - COPAE",
+        "link": "#"
+      },
+      {
+        "nombre": "Asociación de productoras - APAE",
+        "link": "#"
+      },
+      {
+        "nombre": "Asociación de técnicos - AETC",
+        "link": "#"
+      },
+      {
+        "nombre": "Asociación de documentalistas - ADEC",
+        "link": "#"
+      },
+      {
+        "nombre": "Asociación de actores y actrices - UNIARTE",
+        "link": "#"
+      },
+      {
+        "nombre": "Asociación de directores y directoras",
+        "link": "#"
+      },
+      {
+        "nombre": "Asociación de Creadores del Cine y Audiovisual de Pueblos y Nacionalidades de Ecuador - ACAPANA",
+        "link": "#"
+      },
+      {
+        "nombre": "Asociación de fotógrafos",
+        "link": "#"
+      }
+    ]
+  },
+  "contactoInfo": {
+    "contancto": "Contacto",
+    "direccion": "Dirección",
+    "telf": "Teléfonos"
+  }
+}

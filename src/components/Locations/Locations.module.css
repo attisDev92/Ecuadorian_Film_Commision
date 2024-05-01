@@ -1,0 +1,10 @@
+@import url(../../styles/stylesguide.css);
+
+.locations {
+  text-align: justify;
+  margin: 2rem 10rem;
+}
+
+.locations p{
+  margin: 1rem 0;
+}

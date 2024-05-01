@@ -1,0 +1,10 @@
+@import url(../../styles/stylesguide.css);
+
+.container__sections {
+  padding: 10rem 0rem 4rem;
+}
+
+.container__sections h2 {
+  margin: 5rem 5rem 3rem;
+}
+

@@ -1,0 +1,68 @@
+@import url(../../styles/stylesguide.css);
+
+.suppliers__card {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem  7rem;
+  padding: 2rem 1rem;
+  width: 70%;
+  height: fit-content;
+  background-color: var(--color-primary-300);
+  border-radius: var(--radio-primary-button);
+  align-content: center;
+  align-items: center;
+  transition: all 0.6s ease-in-out;
+}
+
+.container__text {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card__text {
+  margin: 0;
+  padding: 0  2rem;
+  font-size: 1.3rem;
+  font-weight: var(--font-weight-h4);
+  text-align: center;
+}
+
+.card__link {
+  text-align: center;
+  height: 0;
+  width: 100%;
+  font-size: 1.2rem;
+  background-color: var(--color-primary-0);
+  color: var(--color-primary-500);
+  text-decoration: underline;
+  box-shadow: inset -1px -2px 3px 0px;
+  transform: scaleY(0);
+  transition: all 0.6s ease-in-out;
+}
+
+.suppliers__card:hover {
+  height: 100%;
+  transition: all 0.6s ease-in-out;
+}
+
+.suppliers__card:hover .card__link {
+  height: 3rem;
+  transform: scaleY(1);
+  padding: 0.8rem;
+  margin: 1rem 0 0;
+  transition: all 0.6s ease-in-out;
+}
+
+.suppliers__card img {
+  width: 2rem;
+  height: 2rem;
+  transform: rotate(90deg);
+  transition: all 0.6s ease-in-out
+}
+
+.suppliers__card:hover img {
+  transform: rotate(270deg);
+  transition: all 0.6s ease-in-out;
+}

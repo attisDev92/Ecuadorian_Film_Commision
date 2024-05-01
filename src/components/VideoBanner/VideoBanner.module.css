@@ -1,0 +1,11 @@
+@import url(../../styles/stylesguide.css);
+
+.container__video {
+  width: 100vw;
+  aspect-ratio: 16/9;
+  padding-block-start: 6rem;
+}
+
+.video {
+  border: 10px solid green;
+}

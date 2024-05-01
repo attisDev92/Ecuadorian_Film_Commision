@@ -1,0 +1,19 @@
+@import url(./styles/stylesguide.css);
+
+.list__links {
+  margin: 0 10rem;
+}
+
+.list__links li {
+  list-style-type: disc;
+  text-decoration: underline;
+  color: var(--color-primary-100)
+}
+
+.list__links a {
+  color: var(--color-primary-100)
+}
+
+.list__links a:hover {
+  color: var(--color-secondary-200);
+}
