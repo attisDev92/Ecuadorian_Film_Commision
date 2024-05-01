@@ -1,0 +1,69 @@
+{
+  "categorias-esp": {
+    "Area Rural": [
+      "Prehispánico",
+      "Agrícola",
+      "Pesquera",
+      "Haciendas",
+      "Poblados"
+    ],
+    "Infraestructura Pública": [
+      "Energía",
+      "Puertos y Aeropuertos",
+      "Astilleros",
+      "Estaciones y Trenes",
+      "Hospitales",
+      "Museos"
+    ],
+    "Área Urbana": [
+      "Plazas y Monumentos",
+      "Inglesias",
+      "Calles",
+      "Casas, Hosterias, Hoteles",
+      "Cementerios",
+      "Escuelas, Colegios, Universidades",
+      "Teatros"
+    ],
+    "Área Natural": [
+      "Montañas",
+      "Bosques y Parques",
+      "Cascadas, Rios y Lagunas",
+      "Cavernas y Cuevas",
+      "Playas y Acantilados",
+      "Islas y Vida Submarina"
+    ]
+  },
+  "categorias-eng": {
+    "Rural Area": [
+      "Prehispanic",
+      "Farming",
+      "Fishery",
+      "Ranch",
+      "Towns"
+    ],
+    "Infraestructura Pública": [
+      "Ports and Airports",
+      "Shipyards",
+      "Station and Trains",
+      "Hospitals",
+      "Museums"
+    ],
+    "Área Urbana": [
+      "Squeres y Monuments",
+      "Churches",
+      "Streets and Avenues",
+      "Houses, Hostels and Hotels",
+      "Cementeries",
+      "Schools, Colleges, Universities",
+      "Teatros"
+    ],
+    "Área Natural": [
+      "Mountains",
+      "Forests and Parks",
+      "Waterfall, Rivers and Lakes",
+      "Caverns and Caves",
+      "Beaches and Cliffs",
+      "Islands y Underwater life"
+    ]
+  }
+}
