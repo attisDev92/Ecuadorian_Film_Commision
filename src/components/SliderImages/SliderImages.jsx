@@ -4,7 +4,7 @@ import rightArrow from '../../assets/icons/Icon-right-arrow.png'
 
 import imagesDataLocations from '../../assets/data/data_img_locations.json'
 
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 
 const SliderImages = ({ text }) => {
 
@@ -21,12 +21,10 @@ const SliderImages = ({ text }) => {
             const imageRandom = copyAllImages.splice(randomIndex, 1)[0]
             randomImages.push(imageRandom)
         }
-
         return randomImages
     }   
     
     const selectedImagesData = generateImages()
-
 
     const updateImages = (index) => {
         const prevIndex = index === 0 ? (selectedImagesData.length - 1) : (index - 1)
