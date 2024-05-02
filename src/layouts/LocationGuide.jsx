@@ -57,12 +57,9 @@ const LocationGuide = ({ text }) => {
         imagesNumber={imagesNumber}
         imagesData={imagesData}
       />
-  
-<<<<<<< HEAD
-=======
+
     </Section>
   )
->>>>>>> locationGuide
 }
 
 export default LocationGuide
