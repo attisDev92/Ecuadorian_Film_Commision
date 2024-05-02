@@ -1,0 +1,21 @@
+@import url(../styles/stylesguide.css);
+
+.categories {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 2rem;
+  margin: 2rem auto;
+  justify-content: center;
+}
+
+.location_cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 1rem auto;
+  padding: 2rem;
+  gap: 2rem;
+  justify-content: center;
+}

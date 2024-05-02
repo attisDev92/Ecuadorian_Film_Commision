@@ -1,0 +1,21 @@
+@import url(../../styles/stylesguide.css);
+
+.card {
+  width: 30%;
+  aspect-ratio: 16 / 9;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--radio-card);
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+.card img {
+  height: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.card:hover {
+  box-shadow: var(--card-shadow-hover);
+  transform: scale(1.05);
+  transition: all 0.3s ease-in-out;
+}

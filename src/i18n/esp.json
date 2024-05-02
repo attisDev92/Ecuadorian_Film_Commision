@@ -96,5 +96,10 @@
     "contancto": "Contacto",
     "direccion": "Dirección",
     "telf": "Teléfonos"
+  },
+  "LocationGuide": {
+    "title": "Guía de Locaciones",
+    "categories": "Categorías",
+    "filters": "Filtros" 
   }
 }

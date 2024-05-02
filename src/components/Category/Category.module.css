@@ -1,0 +1,42 @@
+@import url(../../styles/stylesguide.css);
+
+.category {
+  position: relative;
+  width: 20%;
+  background-color: var(--color-primary-100);
+  aspect-ratio: 16 / 6;
+  border-radius: var(--radio-primary-button);
+  box-shadow: var(--button-shadow);
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.category h4 {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  margin: 1rem auto;
+  z-index: 2;
+  color: var(--color-primary-0);
+  text-shadow: var(--color-primary-900) 3px 3px 2px;
+}
+
+.category img {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  aspect-ratio: 16 / 6;
+  z-index: 1;
+  filter: grayscale(1);
+  transition: all 0.3s ease-in-out;
+}
+
+.category:hover {
+  
+}
+
+.category:hover img {
+  filter: grayscale(0);
+  transform: scale(1.2);
+  transition: all 0.3s ease-in-out;
+}
