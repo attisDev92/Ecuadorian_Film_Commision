@@ -31,10 +31,6 @@
   transition: all 0.3s ease-in-out;
 }
 
-.category:hover {
-  
-}
-
 .category:hover img {
   filter: grayscale(0);
   transform: scale(1.2);

@@ -1,0 +1,18 @@
+@import url(../../styles/stylesguide.css);
+
+.buttons_container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.buttons_container button {
+  width: 10rem;
+  height: 2rem;
+  border-radius: var(--radio-primary-button);
+  border: var(--border-primary-button);
+  box-shadow: var(--button-shadow);
+}

@@ -4,6 +4,7 @@ import imagesDataFull from '../assets/data/data_img_locations.json'
 import Section from '../components/Section/Section'
 import Category from '../components/Category/Category'
 import LocationCard from '../components/LocationCard/LocationCard'
+import LocationsButtons from '../components/LocationsButtons/LocationsButtons'
 
 import { useState } from 'react'
 
@@ -49,22 +50,13 @@ const LocationGuide = ({ text }) => {
         }
       </div>
 
-      {
-        imagesNumber < imagesData.length ? (
-        <button onClick={handleOnClickPlusImages}>Ver más</button>
-        ) : (
-          null
-        )
-      }
-
-      {
-        imagesNumber > 20 ? (
-          <button onClick={handleOnClickLessImages}>Ver menos</button>
-        ) : (
-          null
-        )
-      }
-      
+      <LocationsButtons 
+        text={text} 
+        handleOnClickLessImages={handleOnClickLessImages} 
+        handleOnClickPlusImages={handleOnClickPlusImages} 
+        imagesNumber={imagesNumber}
+        imagesData={imagesData}
+      />
   
     </Section>
   )
