@@ -96,5 +96,10 @@
     "contancto": "Contact",
     "direccion": "Address",
     "telf": "Phone"
+  },
+  "LocationGuide": {
+    "title": "Locations Guide",
+    "categories": "Categories",
+    "filters": "Filters" 
   }
 }

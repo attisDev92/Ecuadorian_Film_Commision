@@ -1,0 +1,101 @@
+{
+  "categorias_esp": [
+    {
+      "name": "Área Rural",
+      "filtros": [
+        "Prehispánico",
+        "Agrícola",
+        "Pesquera",
+        "Haciendas",
+        "Poblados"
+      ],
+      "img": "40 La Mica.jpg"
+    },
+    {
+      "name": "Infraestructura Pública",
+      "filtros": [
+        "Energía",
+        "Puertos y Aeropuertos",
+        "Astilleros",
+        "Estaciones y Trenes",
+        "Hospitales",
+        "Museos"
+      ],
+      "img": "30 Ex Aeropuerto de UIO.jpg"
+    },
+    {
+      "name": "Área Urbana",
+      "filtros": [
+        "Plazas y Monumentos",
+        "Inglesias",
+        "Calles",
+        "Casas, Hosterias, Hoteles",
+        "Cementerios",
+        "Escuelas, Colegios, Universidades",
+        "Teatros"
+      ],
+      "img": "116_Selección_2_UIO.jpg"
+    },  
+    {
+      "name": "Área Natural",
+      "filtros": [
+        "Montañas",
+        "Bosques y Parques",
+        "Cascadas, Rios y Lagunas",
+        "Cavernas y Cuevas",
+        "Playas y Acantilados",
+        "Islas y Vida Submarina"
+      ],
+      "img": "14_Chimborazo.jpg"
+    }
+  ],
+  "categorias_eng": [
+    {
+      "name": "Rural Area",
+      "filtros": [
+        "Prehispanic",
+        "Farming",
+        "Fishery",
+        "Ranch",
+        "Towns"
+      ],
+      "img": "40 La Mica.jpg"
+    },
+    {
+      "name": "Public Infrastructure",
+      "filtros": [
+        "Ports and Airports",
+        "Shipyards",
+        "Station and Trains",
+        "Hospitals",
+        "Museums"
+      ],
+      "img": "30 Ex Aeropuerto de UIO.jpg"
+    },
+    {
+      "name": "Urban Area",
+      "filtros": [
+        "Squeres y Monuments",
+        "Churches",
+        "Streets and Avenues",
+        "Houses, Hostels and Hotels",
+        "Cementeries",
+        "Schools, Colleges, Universities",
+        "Teatros"
+      ],
+      "img": "116_Selección_2_UIO.jpg"
+    },
+    {
+      "name": "Natural Area",
+      "filtros": [
+        "Mountains",
+        "Forests and Parks",
+        "Waterfall, Rivers and Lakes",
+        "Caverns and Caves",
+        "Beaches and Cliffs",
+        "Islands y Underwater life"
+      ],
+      "img": "14_Chimborazo.jpg"
+    }
+  ]
+}
