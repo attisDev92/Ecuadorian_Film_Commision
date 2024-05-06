@@ -37,7 +37,10 @@ const LocationGuide = ({ text }) => {
       <div className={styles.categories}>
         {
           categories.map( category => (
-            <Category category={category} />
+            <Category 
+              category={category} 
+              key={category.name}
+            />
           )) 
         }
       </div>
@@ -45,7 +48,10 @@ const LocationGuide = ({ text }) => {
       <div className={styles.location_cards}>
         {
           imagesLocations.map( image => (
-            <LocationCard image={image} />
+            <LocationCard 
+              image={image} 
+              key={image.src}
+            />
           ))
         }
       </div>

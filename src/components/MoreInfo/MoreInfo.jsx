@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types'
 import styles from './MoreInfo.module.css'
 
 const MoreInfo = ({ text }) => {
@@ -22,10 +21,6 @@ const MoreInfo = ({ text }) => {
             </button>
         </div>       
     )
-}
-
-MoreInfo.propTypes = {
-    urlContact: PropTypes.string.isRequired
 }
 
 export default MoreInfo

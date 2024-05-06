@@ -25,7 +25,6 @@ const SliderImages = ({ text }) => {
             const imageRandom = copyAllImages.splice(randomIndex, 1)[0]
             randomImages.push(imageRandom)
         }
-
         return randomImages
     }   
     
@@ -68,7 +67,7 @@ const SliderImages = ({ text }) => {
 
             <div className={styles.banner} >
 
-                <a 
+                <button 
                     onClick={handlePreviousImage} 
                     className={styles.card__img}
                 >
@@ -81,9 +80,9 @@ const SliderImages = ({ text }) => {
                     <div className={`${styles.arrows} ${styles.arrows__left}`}>
                         <img src={leftArrow} />
                     </div>
-                </a >
+                </button >
 
-                <a className={`${styles.card__img} ${styles.card__principal}`}>
+                <div className={`${styles.card__img} ${styles.card__principal}`}>
                     <div className={styles.image__box}>
                         <img 
                             src={`src/assets/images/locations/${selectedImagesData[currentImg].src}`} 
@@ -101,9 +100,9 @@ const SliderImages = ({ text }) => {
                             }
                         </a>
                     </div>
-                </a >
+                </div >
 
-                <a 
+                <button
                     onClick={handleNextImage} 
                     className={styles.card__img}
                 >
@@ -116,7 +115,7 @@ const SliderImages = ({ text }) => {
                     <div className={`${styles.arrows} ${styles.arrows__right}`}>
                         <img src={rightArrow}/>
                     </div>
-                </a >
+                </button >
             </div>
         </div>
     )

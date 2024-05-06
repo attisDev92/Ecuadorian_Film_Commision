@@ -1,23 +1,36 @@
+import { useNavigate } from 'react-router-dom'
 import SliderImages from '../SliderImages/SliderImages'
-import style from './Locations.module.css'
+import styles from './Locations.module.css'
 
 const Locations = ({ text }) => {
-  
+  const navigate = useNavigate()
+
+  const handleOnClick = () => {
+    navigate('/locations')
+  }
+
   return (
     <>
-      <div className={style.locations}>
+      <div className={styles.locations}>
         <p>
           {text.locacionSeccion.parrafo.uno}
-        </p>
+        </p> <br/>
         <p>
           {text.locacionSeccion.parrafo.dos}
-        </p>
+        </p> <br/>
         <p>
           {text.locacionSeccion.parrafo.tres}
-        </p>
+        </p> <br/>
       </div>
       
       <SliderImages text={text} />
+
+      <button
+        onClick={handleOnClick}
+        className={styles.button}
+      >
+        {text.locacionSeccion.button}
+      </button>
     </>
   )
 }

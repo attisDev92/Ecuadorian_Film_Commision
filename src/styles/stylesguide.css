@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Helvetica';
-  src: url('./assets/fonts/Helvetica.ttc') format('truetype');
+  src: url('fonts/Helvetica.ttc') format('truetype');
 }
 
 @font-face {
   font-family: 'Cubano';
-  src: url('./assets/fonts/Cubano.ttf') format('truetype');
+  src: url('fonts/Cubano.ttf') format('truetype');
 }
 
 :root {

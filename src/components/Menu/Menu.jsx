@@ -5,13 +5,13 @@ const Menu = ({ text }) => {
     return (
         <nav className={styles.menu}>
             <div>
-                <a href='#locations'>
+                <a href='/#locations'>
                     {text.menu.locacion}
                 </a>
-                <a href='#documents'>
+                <a href='/#documents'>
                     {text.menu.documentos}
                 </a>
-                <a href='#suppliers'>
+                <a href='/#suppliers'>
                     {text.menu.proveedores}
                 </a>
                 <a href='#footer'>

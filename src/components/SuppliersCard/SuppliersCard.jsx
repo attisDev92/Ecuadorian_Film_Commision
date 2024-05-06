@@ -1,8 +1,11 @@
-import PropTypes from 'prop-types'
+
 import styles from './SuppliersCard.module.css'
 import rightArrow from '../../assets/icons/Icon-right-arrow.png'
 
-const SuppliersCard = ({ idioma, proveedor }) => {
+const SuppliersCard = ({ 
+    idioma, 
+    proveedor 
+}) => {
     
     return (
         <div className={styles.suppliers__card}>
@@ -24,12 +27,6 @@ const SuppliersCard = ({ idioma, proveedor }) => {
             </a>
         </div>
     )
-}
-
-SuppliersCard.propTypes = {
-    principalText: PropTypes.string.isRequired,
-    hoverText: PropTypes.string.isRequired,
-    urlMoreInfo: PropTypes.string.isRequired
 }
 
 export default SuppliersCard

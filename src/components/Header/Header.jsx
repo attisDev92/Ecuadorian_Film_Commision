@@ -46,7 +46,7 @@ const Header = ({ handleChangeLanguaje, text }) => {
 
             <div className={styleLogoBar}></div>
 
-            <a href='#'>
+            <a href='/#'>
                 <img 
                     className={styles.header__img} 
                     src={logoFilmCommision} 

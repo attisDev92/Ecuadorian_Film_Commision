@@ -30,7 +30,7 @@ function Index({ text }) {
               return (
                 <DocumentList 
                   documento={documento} 
-                  key={documento.name} 
+                  key={documento.nombre} 
                 />
               )
             })
@@ -47,7 +47,7 @@ function Index({ text }) {
           {
             text.proveedoresSeccion.proveedores.map(proveedor => (
               <SuppliersCard 
-                key={proveedor}
+                key={proveedor.nombre}
                 idioma={text.idioma} 
                 proveedor={proveedor} 
               />

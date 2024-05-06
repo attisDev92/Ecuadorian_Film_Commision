@@ -4,6 +4,7 @@ import logoIFCI from '../../assets/images/logos/IFCI_logo_blanco.svg'
 import logoMCYP from '../../assets/images/logos/MCYP_logo_blanco.svg'
 
 import { useState, useEffect } from 'react'
+import { useNavigate } from 'react-router-dom'
 
 const Footer = ({ text }) => {
 
@@ -30,6 +31,11 @@ const Footer = ({ text }) => {
         ? styles.logo__white_bar_opaque 
         : styles.logo__white_bar
 
+    
+    const handlerOnClick = (anchorId) => {
+
+    }
+
     return (
         <footer id='footer'>
             <div className={styles.container__footer}>
@@ -43,7 +49,7 @@ const Footer = ({ text }) => {
                     </p>  
 
                     <li>
-                        <a href="#locations">
+                        <a href="/#locations">
                             {text.menu.locacion}
                         </a>
                     </li>

@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types'
 import style from './VideoBanner.module.css'
 import imgBanner from '../../assets/images/Still Reel CF.png'
 
@@ -16,9 +15,5 @@ const VideoBanner = ({ text  }) => {
     )
 }
 
-VideoBanner.propTypes = {
-    urlVideoMp4: PropTypes.string.isRequired,
-    urlVideoOgg: PropTypes.string
-}
 
 export default VideoBanner

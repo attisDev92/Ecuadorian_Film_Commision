@@ -5,6 +5,22 @@
   margin: 2rem 10rem;
 }
 
-.locations p{
+.locations p {
   margin: 1rem 0;
+}
+
+.button {
+  margin: 2rem;
+  padding: 0 1rem;
+  height: 2rem;
+  border: var(--border-primary-button);
+  border-radius: var(--radio-primary-button);
+  box-shadow: var(--button-shadow);
+  transition: all 5ms;
+}
+
+.button:hover {
+  box-shadow: var(--button-shadow-hover);
+  border: var(--border-primary-button-hover);
+  transform: scale(1.05);
 }
