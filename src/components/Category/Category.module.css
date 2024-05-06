@@ -1,38 +1,37 @@
 @import url(../../styles/stylesguide.css);
 
 .category {
-  position: relative;
+  display: flex;
+  flex-direction: column;
   width: 20%;
-  background-color: var(--color-primary-100);
-  aspect-ratio: 16 / 6;
-  border-radius: var(--radio-primary-button);
-  box-shadow: var(--button-shadow);
-  overflow: hidden;
+  justify-content: center;
   cursor: pointer;
 }
 
-.category h4 {
-  position: absolute;
-  width: 100%;
+.category h5 {
+  margin: 0.3rem  auto;
   text-align: center;
-  margin: 1rem auto;
-  z-index: 2;
-  color: var(--color-primary-0);
-  text-shadow: var(--color-primary-900) 3px 3px 2px;
+  transition: all 0.6s ease-in-out;
 }
 
 .category img {
-  position: absolute;
-  top: 0;
-  height: 100%;
+  height: 5rem;
   aspect-ratio: 16 / 6;
-  z-index: 1;
   filter: grayscale(1);
-  transition: all 0.3s ease-in-out;
+  border-radius: var(--radio-primary-button);
+  box-shadow: var(--button-shadow);
+  overflow: hidden;
+  transition: all 0.6s ease-in-out;
 }
 
 .category:hover img {
   filter: grayscale(0);
-  transform: scale(1.2);
-  transition: all 0.3s ease-in-out;
+  transform: scale(1.05);
+  transition: all 0.6s ease-in-out;
+}
+
+.category:hover h5 {
+  margin: 0.5rem  auto;
+  border-bottom: 2px solid var(--color-secondary-400);
+  transition: all 0.6s ease-in-out;
 }

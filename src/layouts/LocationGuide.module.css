@@ -3,10 +3,11 @@
 .categories {
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
   gap: 2rem;
-  margin: 2rem auto;
+  margin: 4rem auto;
+  width: 90%;
   justify-content: center;
+  align-items: flex-start;
 }
 
 .location_cards {
