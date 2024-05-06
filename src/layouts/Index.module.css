@@ -1,0 +1,12 @@
+@import url(../styles/stylesguide.css);
+
+.container__suppliers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  width: 80%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}

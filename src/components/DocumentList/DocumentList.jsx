@@ -1,3 +1,4 @@
+import rightArrow from '../../assets/icons/Icon-right-arrow.png'
 import styles from './DocumentList.module.css'
 
 const DocumentList = ({ text, documento }) => {
@@ -6,6 +7,8 @@ const DocumentList = ({ text, documento }) => {
     <li className={styles.list__container}>
       <p>{documento.nombre}</p> <br />
       <a href={documento.link}>
+
+        <img src={rightArrow} />
         {
           text.idioma === 'esp'
             ? 'más información'

@@ -3,6 +3,7 @@ import Locations from '../components/Locations/Locations'
 import DocumentList from '../components/DocumentList/DocumentList'
 import SuppliersCard from '../components/SuppliersCard/SuppliersCard'
 import Section from '../components/Section/Section'
+import styles from './Index.module.css'
 
 function Index({ text }) {
 
@@ -44,7 +45,7 @@ function Index({ text }) {
         text={text} 
         title={text.proveedoresSeccion.titulo}
       >
-        <div className='container__suppliers'>
+        <div className={styles.container__suppliers}>
           {
             text.proveedoresSeccion.proveedores.map(proveedor => (
               <SuppliersCard 

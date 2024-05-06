@@ -1,4 +1,3 @@
-
 import styles from './SuppliersCard.module.css'
 import rightArrow from '../../assets/icons/Icon-right-arrow.png'
 
@@ -9,16 +8,14 @@ const SuppliersCard = ({
     
     return (
         <div className={styles.suppliers__card}>
-            <div className={styles.container__text}> 
-                <p className={styles.card__text}>
-                    {proveedor.nombre}
-                </p> 
-                <img src={rightArrow} />
-            </div>
+            <p className={styles.card__text}>
+                {proveedor.nombre}
+            </p> 
             <a 
                 href={proveedor.link} 
                 className={styles.card__link}
             >
+                <img src={rightArrow} />
                 {
                     idioma === "esp" 
                         ? "Más información" 
