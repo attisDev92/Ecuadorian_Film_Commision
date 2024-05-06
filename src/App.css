@@ -17,3 +17,8 @@
 .list__links a:hover {
   color: var(--color-secondary-200);
 }
+
+.notfound__container {
+  padding: 15rem 5rem 0;
+}
+

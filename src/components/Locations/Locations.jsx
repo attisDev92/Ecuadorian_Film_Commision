@@ -16,6 +16,7 @@ const Locations = ({ text }) => {
           {text.locacionSeccion.parrafo.tres}
         </p>
       </div>
+      
       <SliderImages text={text} />
     </>
   )

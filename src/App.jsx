@@ -13,6 +13,7 @@ import Footer from './components/Footer/Footer'
 
 import Index from './layouts/Index'
 import LocationsGuide from './layouts/LocationGuide'
+import NotFound from './layouts/NotFound'
 
 import "./App.css"
 
@@ -37,6 +38,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Index text={text} />} />
         <Route path='/locations' element={<LocationsGuide text={text}/>} />
+        <Route path='*' element={<NotFound />} />
       </Routes>
 
       <Footer text={text} />      

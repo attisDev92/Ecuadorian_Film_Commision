@@ -1,26 +1,23 @@
 import PropTypes from 'prop-types'
-import { useNavigate } from "react-router-dom"
 import styles from './MoreInfo.module.css'
 
 const MoreInfo = ({ text }) => {
-
-    const navigateTo = useNavigate
-
-    const handleOnCLick = () => {
-        navigateTo('#')
-    }
 
     return (
         <div className={styles.moreInfo__container}>
             <p>
                 {
-                    text.idioma === 'esp' ? 'más información:' : 'more information: '
+                    text.idioma === 'esp' 
+                        ? 'más información:' 
+                        : 'more information: '
                 }
                  
             </p>
-            <button onClick={handleOnCLick}>
+            <button>
                 {
-                    text.idioma === 'esp' ? 'Contacto' : 'Contact'
+                    text.idioma === 'esp' 
+                        ? 'Contacto' 
+                        : 'Contact'
                 }
             </button>
         </div>       

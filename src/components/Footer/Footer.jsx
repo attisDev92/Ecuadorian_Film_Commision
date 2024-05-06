@@ -9,11 +9,9 @@ const Footer = ({ text }) => {
 
     const [isOpaque, setIsOpaque ] = useState(false)
 
-
     const handleScroll = () => {
         const scrollY = window.scrollY || document.documentElement.scrollTop
         const contentHeight = document.body.offsetHeight
-
         const relativeScrollPosition = scrollY / contentHeight;
 
         if (relativeScrollPosition >= 0.7) {
@@ -28,36 +26,63 @@ const Footer = ({ text }) => {
         return () => window.removeEventListener('scroll', handleScroll)
     }, [])
 
-    const styleLogoBar = isOpaque ? styles.logo__white_bar_opaque : styles.logo__white_bar
+    const styleLogoBar = isOpaque 
+        ? styles.logo__white_bar_opaque 
+        : styles.logo__white_bar
 
     return (
         <footer id='footer'>
             <div className={styles.container__footer}>
                 <ul className={styles.sections__list}>
-                    <p>{text.idioma === "esp" ? "Secciones" : "Sections"}</p>  
+                    <p>
+                        {
+                            text.idioma === "esp" 
+                                ? "Secciones" 
+                                : "Sections"
+                        }
+                    </p>  
 
-                    <li><a href="#locations">
-                        {text.menu.locacion}
-                    </a></li>
-                    <li><a href="#documents">
-                        {text.menu.documentos}
-                    </a></li>
-                    <li><a href="#suppliers">
-                        {text.menu.proveedores}
-                    </a></li>
+                    <li>
+                        <a href="#locations">
+                            {text.menu.locacion}
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#documents">
+                            {text.menu.documentos}
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#suppliers">
+                            {text.menu.proveedores}
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/locations">
+                            {text.LocationGuide.title}
+                        </a>
+                    </li>
+
                 </ul>
+                
                 <div className={styles.contact__info}>
                     <p>{text.contactoInfo.telf}: +593 2-393-1250</p>
                     <p>{text.contactoInfo.direccion}: Av. Atahualpa OE1-109 y Av. 10 de agosto</p>
                     <p>Quito - Ecuador</p>
                 </div>
+
             </div>
 
             <div className={styles.logo__container}>
                 <div className={styleLogoBar}></div>
-
                 <a href='#'>
-                    <img className={styles.logo__img} src={logoFilmCommision} alt={text.logo.textoAlternativo} />
+                    <img 
+                        className={styles.logo__img} 
+                        src={logoFilmCommision} 
+                        alt={text.logo.textoAlternativo} 
+                    />
                 </a>
             </div>
 

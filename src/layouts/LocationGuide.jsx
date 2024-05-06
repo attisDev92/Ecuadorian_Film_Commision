@@ -15,9 +15,7 @@ const LocationGuide = ({ text }) => {
   const [ imagesNumber, setImagesNumber ] = useState(20)
 
   const categories = text.idioma === 'esp' ? categoriesData.categorias_esp : categoriesData.categorias_eng
-
   const imagesData = text.idioma == 'esp' ? imagesDataFull.español : imagesDataFull.english
-
   const imagesLocations = imagesData.slice(0, imagesNumber)
 
   const handleOnClickPlusImages = () => {
@@ -35,6 +33,7 @@ const LocationGuide = ({ text }) => {
 
   return (
     <Section id={"locations_Guide"} text={text} title={text.LocationGuide.title}>
+      
       <div className={styles.categories}>
         {
           categories.map( category => (
@@ -42,6 +41,7 @@ const LocationGuide = ({ text }) => {
           )) 
         }
       </div>
+      
       <div className={styles.location_cards}>
         {
           imagesLocations.map( image => (

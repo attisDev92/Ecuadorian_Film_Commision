@@ -24,13 +24,21 @@ const Header = ({ handleChangeLanguaje, text }) => {
         return () => window.removeEventListener('scroll', handleScroll)
     }, [])
 
-    const styleMenuBar = isOpaque ? styles.header__menu_bar_opaque : styles.header__menu_bar
+    const styleMenuBar = isOpaque 
+        ? styles.header__menu_bar_opaque 
+        : styles.header__menu_bar
 
-    const styleLogoBar = isOpaque ? styles.logo__white_bar_opaque : styles.logo__white_bar
+    const styleLogoBar = isOpaque 
+        ? styles.logo__white_bar_opaque 
+        : styles.logo__white_bar
 
     return (
         <header className={styles.header}>
-            <LanguageButton handleChangeLanguaje={handleChangeLanguaje} text={text} /> 
+
+            <LanguageButton 
+                handleChangeLanguaje={handleChangeLanguaje} 
+                text={text} 
+            /> 
 
             <div className={styleMenuBar}></div> 
 
@@ -39,7 +47,11 @@ const Header = ({ handleChangeLanguaje, text }) => {
             <div className={styleLogoBar}></div>
 
             <a href='#'>
-                <img className={styles.header__img} src={logoFilmCommision} alt={text.logo.textoAlternativo} />
+                <img 
+                    className={styles.header__img} 
+                    src={logoFilmCommision} 
+                    alt={text.logo.textoAlternativo} 
+                />
             </a>
 
         </header>

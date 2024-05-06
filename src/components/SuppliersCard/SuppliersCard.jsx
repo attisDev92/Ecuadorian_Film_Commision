@@ -6,19 +6,22 @@ const SuppliersCard = ({ idioma, proveedor }) => {
     
     return (
         <div className={styles.suppliers__card}>
-
             <div className={styles.container__text}> 
                 <p className={styles.card__text}>
                     {proveedor.nombre}
                 </p> 
                 <img src={rightArrow} />
             </div>
-            <a href={proveedor.link} className={styles.card__link}>
+            <a 
+                href={proveedor.link} 
+                className={styles.card__link}
+            >
                 {
-                    idioma === "esp" ? "Más información" : "More information"
+                    idioma === "esp" 
+                        ? "Más información" 
+                        : "More information"
                 }
             </a>
-
         </div>
     )
 }

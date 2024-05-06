@@ -21,20 +21,24 @@ const LanguajeButton = ({ handleChangeLanguaje, text }) => {
 
     return (
         <div className={styles.language__buttons}>
-            <a className={styleUK} 
+            <a 
+                className={styleUK} 
                 onClick={() => handleChangeLanguaje('english')}
             >
-                <img className={styles.language__img} 
+                <img 
+                    className={styles.language__img} 
                     src={ukIcon} 
                     alt='English'
                 />
                 <p>ENG</p>
             </a>
 
-            <a className={styleEsp} 
+            <a 
+                className={styleEsp} 
                 onClick={() => handleChangeLanguaje('español')}
             >
-                <img clas className={styles.language__img} 
+                <img 
+                    className={styles.language__img} 
                     src={espIcon} 
                     alt='Español' 
                 />
