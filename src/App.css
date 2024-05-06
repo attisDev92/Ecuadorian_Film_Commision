@@ -4,20 +4,6 @@
   margin: 0 10rem;
 }
 
-.list__links li {
-  list-style-type: disc;
-  text-decoration: underline;
-  color: var(--color-primary-100)
-}
-
-.list__links a {
-  color: var(--color-primary-100)
-}
-
-.list__links a:hover {
-  color: var(--color-secondary-200);
-}
-
 .notfound__container {
   padding: 15rem 5rem 0;
 }

@@ -1,0 +1,22 @@
+@import url(../../styles/stylesguide.css);
+
+.list__container {
+  padding: 2rem 3rem;
+  border-bottom: 1px solid var(--color-primary-0);
+  transition: all 0.3s ease-in-out;
+}
+
+.list__container:hover {
+  background-color: var(--color-primary-600);
+  border-bottom: 3px solid var(--color-primary-0);
+  transform: scale(1.03);
+  transition: all 0.3s ease-in-out;
+}
+
+.list__container p {
+  font-size: 1.5rem;
+}
+
+.list__container a {
+  color: var(--color-secondary-300);
+}

@@ -1,6 +1,6 @@
 import VideoBanner from '../components/VideoBanner/VideoBanner'
 import Locations from '../components/Locations/Locations'
-import DocumentList from '../components/DocumentList'
+import DocumentList from '../components/DocumentList/DocumentList'
 import SuppliersCard from '../components/SuppliersCard/SuppliersCard'
 import Section from '../components/Section/Section'
 
@@ -29,6 +29,7 @@ function Index({ text }) {
             text.documentosSeccion.lista.map(documento => { 
               return (
                 <DocumentList 
+                  text={text}
                   documento={documento} 
                   key={documento.nombre} 
                 />
