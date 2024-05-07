@@ -1,5 +1,5 @@
 import style from './VideoBanner.module.css'
-import imgBanner from '../../assets/Still Reel CF.png'
+import imgBanner from '/Still Reel CF.png'
 
 const VideoBanner = ({ text  }) => {
 

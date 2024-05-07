@@ -8,15 +8,6 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: './index.html',
-      plugins: [
-        {
-          name: 'vite-plugin-assers-in-src',
-          enforce: 'pre',
-          async build(config) {
-            await copy(`${config.root}/src/assets`, `${config.root}/public/assets`)
-          }
-        }
-      ]
     },
     publicDir: 'public',
   }

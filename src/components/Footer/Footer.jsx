@@ -1,7 +1,7 @@
 import styles from './Footer.module.css'
-import logoFilmCommision from '../../assets/filmcomissionEC_blanco.svg'
-import logoIFCI from '../../assets/IFCI_logo_blanco.svg'
-import logoMCYP from '../../assets/MCYP_logo_blanco.svg'
+import logoFilmCommision from '/filmcomissionEC_blanco.svg'
+import logoIFCI from '/IFCI_logo_blanco.svg'
+import logoMCYP from '/MCYP_logo_blanco.svg'
 
 import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
@@ -55,13 +55,13 @@ const Footer = ({ text }) => {
                     </li>
 
                     <li>
-                        <a href="#documents">
+                        <a href="/#documents">
                             {text.menu.documentos}
                         </a>
                     </li>
 
                     <li>
-                        <a href="#suppliers">
+                        <a href="/#suppliers">
                             {text.menu.proveedores}
                         </a>
                     </li>

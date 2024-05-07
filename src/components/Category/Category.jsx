@@ -4,7 +4,7 @@ const Category = ({ category }) => {
 
   return (
     <a  className={styles.category}>
-      <img src={`src/assets/${category.img}`} />
+      <img src={`/${category.img}`} />
       <h5>
         {category.name}
       </h5>
