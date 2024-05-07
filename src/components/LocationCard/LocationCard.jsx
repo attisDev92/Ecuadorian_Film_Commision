@@ -4,7 +4,7 @@ const LocationCard = ({ image }) => {
 
   return (
     <div className={styles.card}>
-      <img src={`src/assets/images/locations/${image.src}`} />
+      <img src={`src/assets/${image.src}`} />
     </div>
   )
 }
