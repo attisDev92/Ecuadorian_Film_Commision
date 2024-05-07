@@ -1,6 +1,6 @@
 import styles from './Header.module.css'
-import espIcon from '../../assets/icons/esp_bandera.png'
-import ukIcon from '../../assets/icons/uk_bandera.png'
+import espIcon from '../../assets/images/icons/esp_bandera.png'
+import ukIcon from '../../assets/images/icons/uk_bandera.png'
 import { useEffect, useState } from 'react'
 
 const LanguajeButton = ({ handleChangeLanguaje, text }) => {

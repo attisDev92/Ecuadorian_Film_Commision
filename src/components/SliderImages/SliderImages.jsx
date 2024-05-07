@@ -1,6 +1,6 @@
 import styles from './SliderImages.module.css'
-import leftArrow from '../../assets/icons/Icon-left-arrow.png'
-import rightArrow from '../../assets/icons/Icon-right-arrow.png'
+import leftArrow from '../../assets/images/icons/Icon-left-arrow.png'
+import rightArrow from '../../assets/images/icons/Icon-right-arrow.png'
 
 import imagesDataLocations from '../../assets/data/data_img_locations.json'
 
