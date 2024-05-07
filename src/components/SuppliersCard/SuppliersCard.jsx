@@ -1,5 +1,5 @@
 import styles from './SuppliersCard.module.css'
-import rightArrow from '/Icon-right-arrow.png'
+import rightArrow from '/assets/Icon-right-arrow.png'
 
 const SuppliersCard = ({ 
     idioma, 

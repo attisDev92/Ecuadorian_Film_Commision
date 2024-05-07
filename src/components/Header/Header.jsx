@@ -1,7 +1,7 @@
 import Menu from '../Menu/Menu'
 import LanguageButton from './LanguageButton'
 import styles from './Header.module.css'
-import logoFilmCommision from '/filmcomissionEC_blanco.svg'
+import logoFilmCommision from '/assets/filmcomissionEC_blanco.svg'
 
 import { useEffect, useState } from 'react'
 

@@ -1,5 +1,5 @@
-import categoriesData from '../assets/data/data_categories.json'
-import imagesDataFull from '../assets/data/data_img_locations.json'
+import categoriesData from '../data/data_categories.json'
+import imagesDataFull from '../data/data_img_locations.json'
 
 import Section from '../components/Section/Section'
 import Category from '../components/Category/Category'
