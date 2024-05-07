@@ -5,7 +5,7 @@ import fs from 'fs-extra'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://attisDev92.github.io/Ecuadorian_Film_Commision',
+  base: 'http://ecuadorfilmcommission.com',
   build: {
     rollupOptions: {
       input: './index.html',
