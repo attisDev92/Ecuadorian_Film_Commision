@@ -4,9 +4,9 @@ const VideoBanner = ({ text  }) => {
 
     return (
         <div className={style.container__video}>
-            <video className={style.video}  autoPlay loop preload='auto' >
-                <source src={`/assets/videos/${text.videoBanner.urlVideoMp4}`} type="video/mp4"/>
-                {/* <source src={text.VideoBanner.urlVideoOgg} type="video/ogg"/> */}
+            <video className={style.video} autoPlay loop controls muted >
+                <source src={`/assets/videos/${text.videoBanner.urlVideo}.webm`} type="video/webm"/>
+                <source src={`/assets/videos/${text.videoBanner.urlVideo}.mp4`} type="video/mp4"/>
                 Tu navegador no soporta la etiqueta de 'video'.
             </video>
         </div>

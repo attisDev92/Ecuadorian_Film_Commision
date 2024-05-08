@@ -4,7 +4,10 @@ const LocationCard = ({ image }) => {
 
   return (
     <div className={styles.card}>
-      <img src={`/assets/images/${image.src}`} />
+      <img 
+        loading='lazy'
+        src={`/assets/images/${image.src}`} 
+      />
     </div>
   )
 }

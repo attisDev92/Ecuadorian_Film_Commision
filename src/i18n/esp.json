@@ -11,8 +11,7 @@
     "textoAlternativo": "comisión fílmica"
   },
   "videoBanner": {
-    "urlVideoMp4": "VIDEOCOMISIÓNFILMICAECUADORESP.mp4",
-    "urlVideoOgg": "#"
+    "urlVideo": "VIDEOCOMISIONFILMICAECUADORESP"
   },
   "locacionSeccion": {
     "titulo": "Locación",

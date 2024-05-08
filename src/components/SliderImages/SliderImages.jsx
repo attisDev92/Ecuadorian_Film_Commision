@@ -73,6 +73,7 @@ const SliderImages = ({ text }) => {
                 >
                     <div className={styles.image__box}>
                         <img 
+                            loading='lazy'
                             src={`/assets/images/${selectedImagesData[prevImg].src}`} 
                             alt={selectedImagesData[currentImg].name}
                         />
@@ -84,7 +85,8 @@ const SliderImages = ({ text }) => {
 
                 <div className={`${styles.card__img} ${styles.card__principal}`}>
                     <div className={styles.image__box}>
-                        <img 
+                        <img
+                            loading='lazy'
                             src={`/assets/images/${selectedImagesData[currentImg].src}`} 
                             alt={selectedImagesData[currentImg].name}
                         />
@@ -108,6 +110,7 @@ const SliderImages = ({ text }) => {
                 >
                     <div className={styles.image__box}>
                         <img 
+                            loading='lazy'
                             src={`/assets/images/${selectedImagesData[nextImg].src}`} 
                             alt={selectedImagesData[currentImg].name}
                         />  
