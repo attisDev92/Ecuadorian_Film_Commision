@@ -9,7 +9,7 @@
         "Haciendas",
         "Poblados"
       ],
-      "img": "40 La Mica.jpg"
+      "img": "40LaMica.jpg"
     },
     {
       "name": "Infraestructura Pública",
@@ -21,7 +21,7 @@
         "Hospitales",
         "Museos"
       ],
-      "img": "30 Ex Aeropuerto de UIO.jpg"
+      "img": "30ExAeropuertodeUIO.jpg"
     },
     {
       "name": "Área Urbana",
@@ -34,7 +34,7 @@
         "Escuelas, Colegios, Universidades",
         "Teatros"
       ],
-      "img": "116 Selección 2 UIO.jpg"
+      "img": "116Selección2UIO.jpg"
     },  
     {
       "name": "Área Natural",
@@ -46,7 +46,7 @@
         "Playas y Acantilados",
         "Islas y Vida Submarina"
       ],
-      "img": "14 Chimborazo.jpg"
+      "img": "14Chimborazo.jpg"
     }
   ],
   "categorias_eng": [
@@ -59,7 +59,7 @@
         "Ranch",
         "Towns"
       ],
-      "img": "40 La Mica.jpg"
+      "img": "40LaMica.jpg"
     },
     {
       "name": "Public Infrastructure",
@@ -70,7 +70,7 @@
         "Hospitals",
         "Museums"
       ],
-      "img": "30 Ex Aeropuerto de UIO.jpg"
+      "img": "30ExAeropuertodeUIO.jpg"
     },
     {
       "name": "Urban Area",
@@ -83,7 +83,7 @@
         "Schools, Colleges, Universities",
         "Teatros"
       ],
-      "img": "116 Selección 2 UIO.jpg"
+      "img": "116Selección2UIO.jpg"
     },
     {
       "name": "Natural Area",
@@ -95,7 +95,7 @@
         "Beaches and Cliffs",
         "Islands y Underwater life"
       ],
-      "img": "14 Chimborazo.jpg"
+      "img": "14Chimborazo.jpg"
     }
   ]
 }

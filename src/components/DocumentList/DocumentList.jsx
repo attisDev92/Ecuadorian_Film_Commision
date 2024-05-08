@@ -1,4 +1,4 @@
-import rightArrow from '/assets/Icon-right-arrow.png'
+import rightArrow from '/assets/images/Icon-right-arrow.png'
 import styles from './DocumentList.module.css'
 
 const DocumentList = ({ text, documento }) => {

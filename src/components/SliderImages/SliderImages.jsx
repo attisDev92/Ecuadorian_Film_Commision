@@ -1,6 +1,6 @@
 import styles from './SliderImages.module.css'
-import leftArrow from '/assets/Icon-left-arrow.png'
-import rightArrow from '/assets/Icon-right-arrow.png'
+import leftArrow from '/assets/images/Icon-left-arrow.png'
+import rightArrow from '/assets/images/Icon-right-arrow.png'
 
 import imagesDataLocations from '../../data/data_img_locations.json'
 
@@ -73,7 +73,7 @@ const SliderImages = ({ text }) => {
                 >
                     <div className={styles.image__box}>
                         <img 
-                            src={`/assets/${selectedImagesData[prevImg].src}`} 
+                            src={`/assets/images/${selectedImagesData[prevImg].src}`} 
                             alt={selectedImagesData[currentImg].name}
                         />
                     </div>
@@ -85,7 +85,7 @@ const SliderImages = ({ text }) => {
                 <div className={`${styles.card__img} ${styles.card__principal}`}>
                     <div className={styles.image__box}>
                         <img 
-                            src={`/assets/${selectedImagesData[currentImg].src}`} 
+                            src={`/assets/images/${selectedImagesData[currentImg].src}`} 
                             alt={selectedImagesData[currentImg].name}
                         />
                     </div>
@@ -108,7 +108,7 @@ const SliderImages = ({ text }) => {
                 >
                     <div className={styles.image__box}>
                         <img 
-                            src={`/assets/${selectedImagesData[nextImg].src}`} 
+                            src={`/assets/images/${selectedImagesData[nextImg].src}`} 
                             alt={selectedImagesData[currentImg].name}
                         />  
                     </div>
