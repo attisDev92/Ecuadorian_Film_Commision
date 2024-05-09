@@ -44,45 +44,45 @@
     },
     { 
       
-    "src": "92Selección2SanPablo.png", 
+    "src": "92Seleccion2SanPablo.png", 
     "name":"San Pablo Lake", 
     "location":"Otavalo", 
     "Category":"Escenario Natural", 
     "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "77Selección2Pailón.jpg", 
+      "src": "77Seleccion2Pailon.jpg", 
       "name":"Pailón del Diablo", 
       "location":"Baños de Agua Santa", 
       "Category":"Escenario Natural", 
       "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "103Selección2ExPenal.png", 
+      "src": "103Seleccion2ExPenal.jpg", 
       "name":"former García Moreno prision", 
       "location":"Quito", 
       "Category":"Infraestructura Pública", 
       "Subcategory":"Museos"
     },
     { 
-      "src": "31ExPenalGarcíaMoreno.jpg", 
+      "src": "31ExPenalGarciaMoreno.jpg", 
       "name":"Former García Moreno prision", 
       "location":"Quito", 
       "Category":"Infraestructura Pública", 
       "Subcategory":"Museos"
     },
     { 
-      "src": "85Selección2Cuenca.jpg", 
+      "src": "85Seleccion2Cuenca.jpg", 
       "name":"Cuenca Cathedral", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Iglesias"
     },
     { 
-      "src": "116Selección2UIO.jpg", 
+      "src": "116Seleccion2UIO.jpg", 
       "name":"Oldtown Quito", 
       "location":"Quito", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Calles"
     },
     { 
@@ -93,17 +93,17 @@
       "Subcategory":"Playas y Acantilados"
     },
     { 
-      "src": "08CacadaMágica.jpg", 
+      "src": "08CacadaMagica.jpg", 
       "name":"Cascada Mágica", 
       "location":"El Chaco", 
       "Category":"Escenario Natural", 
       "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "19PlazaSanFranciscoCuenca.jpg", 
+      "src": "19PlazaSanFrancisco Cuenca.jpg", 
       "name":"San Francisco square", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Plazas y Monumentos"
     },
     { 
@@ -114,28 +114,28 @@
       "Subcategory":"Montañas"
     },
     { 
-      "src": "32IglesiaBasílica.jpg", 
+      "src": "32IglesiaBasilica.jpg", 
       "name":"Basílica church", 
       "location":"Quito", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Iglesias"
     },
     { 
-      "src": "33IglesiaBsílica.jpg", 
+      "src": "33IglesiaBasilica.jpg", 
       "name":"Basílica church", 
       "location":"Quito", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Iglesias"
     },
     { 
-      "src": "34IglesiaBasílica.jpg", 
+      "src": "34IglesiaBasilica.jpg", 
       "name":"Basílica church", 
       "location":"Quito", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Iglesias"
     },
     { 
-      "src": "15Chimborazo.png", 
+      "src": "15Chimborazo.jpg", 
       "name":"Chimborazo", 
       "location":"Parque Nacional Chimborazo", 
       "Category":"Escenario Natural", 
@@ -145,21 +145,21 @@
       "src": "16CruzdelVado.jpg", 
       "name":"Cruz del Vado", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Calles"
     },
     { 
       "src": "20PuenteRotoCuenca.jpg", 
       "name":"Puente Roto", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Calles"
     },
     { 
       "src": "21DesiertodePalmira.jpg", 
       "name":"Palmira desert", 
       "location":"Palmira, Chimborazo", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Bosques y Parques"
     },
     { 
@@ -180,28 +180,28 @@
       "src": "17CruzdelVado.jpg", 
       "name":"Cruz del Vado", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Calles"
     },
     { 
       "src": "28ElRefugio.jpg", 
       "name":"El Refugio", 
       "location":"", 
-      "Category":"Area Rural", 
+      "Category":"Área Rural", 
       "Subcategory":"Haciendas"
     },
     { 
       "src": "26ElRefugio.jpg", 
       "name":"El Refugio", 
       "location":"", 
-      "Category":"Area Rural", 
+      "Category":"Área Rural", 
       "Subcategory":"Haciendas"
     },
     { 
       "src": "25ElRefugio.jpg", 
       "name":"El Refugio", 
       "location":"", 
-      "Category":"Area Rural", 
+      "Category":"Área Rural", 
       "Subcategory":"Haciendas"
     },
     { 
@@ -233,18 +233,319 @@
       "Subcategory":"Montañas"
     },
     { 
-      "src": "66Amazonía.jpg", 
+      "src": "66Amazonia.jpg", 
       "name":"", 
       "location":"Amazonía", 
       "Category":"Escenario Natural", 
       "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "70Amazonía.jpg", 
+      "src": "70Amazonia.jpg", 
       "name":"", 
       "location":"Amazonía", 
       "Category":"Escenario Natural", 
       "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "08CascadaMagica.jpg", 
+      "name":"", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "31ExPenalGarciaMoreno.jpg", 
+      "name":"Former García Moreno prision", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Museos"
+    },
+    { 
+      "src": "32IglesiaBasilica.jpg", 
+      "name":"Basílica church", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Iglesias"
+    },
+    { 
+      "src": "33IglesiaBasilica.jpg", 
+      "name":"Basílica church", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Iglesias"
+    },
+    { 
+      "src": "34IglesiaBasilica.jpg", 
+      "name":"Basílica church", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Iglesias"
+    },
+    { 
+      "src": "35IngresoCotopaxi.jpg", 
+      "name":"Cotopaxi National Park", 
+      "location":"Parque Nacional Cotopaxi", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Bosques y Parques"
+    },
+    { 
+      "src": "36IngresoCotopaxi.jpg", 
+      "name":"Cotopaxi National Park", 
+      "location":"Parque Nacional Cotopaxi", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Bosques y Parques"
+    },
+    { 
+      "src": "37LaMica.jpg", 
+      "name":"La Mica", 
+      "location":"Antisana National Park", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Montañas"
+    },
+    { 
+      "src": "41MitaddelMundo.jpg", 
+      "name":"Mitad del Mundo monument", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Plazas y Monumentos"
+    },
+    { 
+      "src": "42MitaddelMundo.jpg", 
+      "name":"Mitad del Mundo monument", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Plazas y Monumentos"
+    },
+    { 
+      "src": "44PlayaCanoa.jpg", 
+      "name":"Canoa beach", 
+      "location":"Canoa, Manabí", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "45PlayaCanoa.jpg", 
+      "name":"Canoa beach", 
+      "location":"Canoa, Manabí", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "46PlayaRosada.jpg", 
+      "name":"Playa Rosada", 
+      "location":"Santa Elena", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "48PuenteViejo.jpg", 
+      "name":"Puente Viejo", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "51Quilotoa.jpg", 
+      "name":"Quilotoa", 
+      "location":"Quilotoa", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "52Quilotoa.jpg", 
+      "name":"Quilotoa", 
+      "location":"Quilotoa", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "53SembrioPifo.jpg", 
+      "name":"Pifo", 
+      "location":"Pifo, Pichincha", 
+      "Category":"Área Rural", 
+      "Subcategory":"Agrícola"
+    },
+    { 
+      "src": "54SembrioPifo.jpg", 
+      "name":"Pifo", 
+      "location":"Pifo, Pichincha", 
+      "Category":"Área Rural", 
+      "Subcategory":"Agrícola"
+    },
+    { 
+      "src": "55TeatroBolivarLoja.jpg", 
+      "name":"Bolivar Theater", 
+      "location":"Loja", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "56TeatroBolivarLoja.jpg", 
+      "name":"Bolivar theater", 
+      "location":"Loja", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "57TeatroBolivarLoja.jpg", 
+      "name":"Bolivar theater", 
+      "location":"Loja", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "58TeatroBolivarLoja.jpg", 
+      "name":"Bolivar theater", 
+      "location":"Loja", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "59TeatroBolivarUIO.jpg", 
+      "name":"Bolivar theater", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "60TeatroBolivarUIO.jpg", 
+      "name":"Bolivar theater", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "61TeatroBolivarUIO.jpg", 
+      "name":"Bolivar theater", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "63TeatroBolivarUIO.jpg", 
+      "name":"Bolivar theater", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "65Zaruma.jpg", 
+      "name":"Zaruma", 
+      "location":"Zaruma, El Oro", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Calles"
+    },
+    { 
+      "src": "60Amazonia.jpg", 
+      "name":"", 
+      "location":"Amazonía", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "88Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "89Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "90Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "90Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "104ExPenal.jpg", 
+      "name":"Former García Moreno prision", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Museos"
+    },
+    { 
+      "src": "106Sierra.jpg", 
+      "name":"Carihuairazo", 
+      "location":"Parque Nacional Chimborazo", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Bosques y Parques"
+    },
+    { 
+      "src": "107Sierra.jpg", 
+      "name":"Pasochoa", 
+      "location":"Reserva Pasochoa", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Bosques y Parques"
+    },
+    { 
+      "src": "108NarizdelDiablo.jpg", 
+      "name":"Nariz del Diablo", 
+      "location":"Alausí, Chimborazo", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Estaciones, Trenes"
+    },
+    { 
+      "src": "110Amazonia.jpg", 
+      "name":"", 
+      "location":"Amazonía", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "111Quito.jpg", 
+      "name":"La Compañí church", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Iglesias"
+    },
+    { 
+      "src": "113Sierra.jpg", 
+      "name":"Acantilado de San Juan", 
+      "location":"San Juan, Chimborazo", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "114Quito.jpg", 
+      "name":"González Suares", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Calles"
+    },
+    { 
+      "src": "117UIO.jpg", 
+      "name":"San Juan", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Calles"
+    },
+    { 
+      "src": "115Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "118Sierra.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
     }
   ],
   "español": [
@@ -298,59 +599,59 @@
       "Subcategory":"Playas y Acantilados"
     },
     { 
-      "src": "92Selección2SanPablo.png", 
+      "src": "92Seleccion2SanPablo.png", 
       "name":"San Pablo Lake", 
       "location":"Otavalo", 
       "Category":"Escenario Natural", 
       "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "77Selección2Pailón.jpg", 
+      "src": "77Seleccion2Pailon.jpg", 
       "name":"Pailón del Diablo", 
       "location":"Baños de Agua Santa", 
       "Category":"Escenario Natural", 
       "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "103Selección2ExPenal.png", 
+      "src": "103Seleccion2ExPenal.jpg", 
       "name":"Expenal García Moreno prision", 
       "location":"Quito", 
       "Category":"Infraestructura Pública", 
       "Subcategory":"Museos"
     },
     { 
-      "src": "31ExPenalGarcíaMoreno.jpg", 
+      "src": "31ExPenalGarciaMoreno.jpg", 
       "name":"Expenal García Moreno prision", 
       "location":"Quito", 
       "Category":"Infraestructura Pública", 
       "Subcategory":"Museos"
     },
     { 
-      "src": "85Selección2Cuenca.jpg", 
+      "src": "85Seleccion2Cuenca.jpg", 
       "name":"Catedral de Cuenca", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Iglesias"
     },
     { 
-      "src": "116Selección2UIO.jpg", 
+      "src": "116Seleccion2UIO.jpg", 
       "name":"Centro Histórico Quito", 
       "location":"Quito", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Calles"
     },
     { 
-      "src": "08CacadaMágica.jpg", 
+      "src": "08CacadaMagica.jpg", 
       "name":"Cascada Mágica", 
       "location":"El Chaco", 
       "Category":"Escenario Natural", 
       "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "19PlazaSanFranciscoCuenca.jpg", 
+      "src": "19PlazaSanFrancisco Cuenca.jpg", 
       "name":"Plaza San Francisco", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Plazas y Monumentos"
     },
     { 
@@ -361,28 +662,28 @@
       "Subcategory":"Montañas"
     },
     { 
-      "src": "32IglesiaBasílica.jpg", 
+      "src": "32IglesiaBasilica.jpg", 
       "name":"Iglesia Basílica", 
       "location":"Quito", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Iglesias"
     },
     { 
-      "src": "33IglesiaBsílica.jpg", 
+      "src": "33IglesiaBasilica.jpg", 
       "name":"Iglesia Basílica", 
       "location":"Quito", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Iglesias"
     },
     { 
-      "src": "34IglesiaBasílica.jpg", 
+      "src": "34IglesiaBasilica.jpg", 
       "name":"Iglesia Basílica", 
       "location":"Quito", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Iglesias"
     },
     { 
-      "src": "15Chimborazo.png", 
+      "src": "15Chimborazo.jpg", 
       "name":"Chimborazo", 
       "location":"Parque Nacional Chimborazo", 
       "Category":"Escenario Natural", 
@@ -392,21 +693,21 @@
       "src": "16CruzdelVado.jpg", 
       "name":"Cruz del Vado", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Calles"
     },
     { 
       "src": "20PuenteRotoCuenca.jpg", 
       "name":"Puente Roto", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Calles"
     },
     { 
       "src": "21DesiertodePalmira.jpg", 
       "name":"Palmira desert", 
       "location":"Palmira, Chimborazo", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Bosques y Parques"
     },
     { 
@@ -427,28 +728,28 @@
       "src": "17CruzdelVado.jpg", 
       "name":"Cruz del Vado", 
       "location":"Cuenca", 
-      "Category":"Area Urbana", 
+      "Category":"Área Urbana", 
       "Subcategory":"Calles"
     },
     { 
       "src": "28ElRefugio.jpg", 
       "name":"El Refugio", 
       "location":"", 
-      "Category":"Area Rural", 
+      "Category":"Área Rural", 
       "Subcategory":"Haciendas"
     },
     { 
       "src": "26ElRefugio.jpg", 
       "name":"El Refugio", 
       "location":"", 
-      "Category":"Area Rural", 
+      "Category":"Área Rural", 
       "Subcategory":"Haciendas"
     },
     { 
       "src": "25ElRefugio.jpg", 
       "name":"El Refugio", 
       "location":"", 
-      "Category":"Area Rural", 
+      "Category":"Área Rural", 
       "Subcategory":"Haciendas"
     },
     { 
@@ -480,18 +781,319 @@
       "Subcategory":"Montañas"
     },
     { 
-      "src": "66Amazonía.jpg", 
+      "src": "66Amazonia.jpg", 
       "name":"", 
       "location":"Amazonía", 
       "Category":"Escenario Natural", 
       "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "70Amazonía.jpg", 
+      "src": "70Amazonia.jpg", 
       "name":"", 
       "location":"Amazonía", 
       "Category":"Escenario Natural", 
       "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "08CascadaMagica.jpg", 
+      "name":"", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "31ExPenalGarciaMoreno.jpg", 
+      "name":"Expenal García Moreno prision", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Museos"
+    },
+    { 
+      "src": "32IglesiaBasilica.jpg", 
+      "name":"Iglesia Basílica", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Iglesias"
+    },
+    { 
+      "src": "33IglesiaBasilica.jpg", 
+      "name":"Iglesia Basílica", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Iglesias"
+    },
+    { 
+      "src": "34IglesiaBasilica.jpg", 
+      "name":"Iglesia Basílica", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Iglesias"
+    },
+    { 
+      "src": "35IngresoCotopaxi.jpg", 
+      "name":"Ingreso al Parque Nacional Cotopaxi", 
+      "location":"Parque Nacional Cotopaxi", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Bosques y Parques"
+    },
+    { 
+      "src": "36IngresoCotopaxi.jpg", 
+      "name":"Ingreso al Parque Nacional Cotopaxi", 
+      "location":"Parque Nacional Cotopaxi", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Bosques y Parques"
+    },
+    { 
+      "src": "37LaMica.jpg", 
+      "name":"La Mica", 
+      "location":"Parque Nacional Antisana", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Montañas"
+    },
+    { 
+      "src": "41MitaddelMundo.jpg", 
+      "name":"Monumento Mitad del Mundo", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Plazas y Monumentos"
+    },
+    { 
+      "src": "42MitaddelMundo.jpg", 
+      "name":"Monumento Mitad del Mundo", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Plazas y Monumentos"
+    },
+    { 
+      "src": "44PlayaCanoa.jpg", 
+      "name":"Playa Canoa", 
+      "location":"Canoa, Manabí", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "45PlayaCanoa.jpg", 
+      "name":"Playa Canoa", 
+      "location":"Canoa, Manabí", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "46PlayaRosada.jpg", 
+      "name":"Playa Rosada", 
+      "location":"Santa Elena", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "48PuenteViejo.jpg", 
+      "name":"Puente Viejo", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "51Quilotoa.jpg", 
+      "name":"Quilotoa", 
+      "location":"Quilotoa", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "52Quilotoa.jpg", 
+      "name":"Quilotoa", 
+      "location":"Quilotoa", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "53SembrioPifo.jpg", 
+      "name":"Sembrios en Pifo", 
+      "location":"Pifo, Pichincha", 
+      "Category":"Área Rural", 
+      "Subcategory":"Agrícola"
+    },
+    { 
+      "src": "54SembrioPifo.jpg", 
+      "name":"Sembrios en Pifo", 
+      "location":"Pifo, Pichincha", 
+      "Category":"Área Rural", 
+      "Subcategory":"Agrícola"
+    },
+    { 
+      "src": "55TeatroBolivarLoja.jpg", 
+      "name":"Teatro Bolivar", 
+      "location":"Loja", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "56TeatroBolivarLoja.jpg", 
+      "name":"Teatro Bolivar", 
+      "location":"Loja", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "57TeatroBolivarLoja.jpg", 
+      "name":"Teatro Bolivar", 
+      "location":"Loja", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "58TeatroBolivarLoja.jpg", 
+      "name":"Teatro Bolivar", 
+      "location":"Loja", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "59TeatroBolivarUIO.jpg", 
+      "name":"Teatro Bolivar", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "60TeatroBolivarUIO.jpg", 
+      "name":"Teatro Bolivar", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "61TeatroBolivarUIO.jpg", 
+      "name":"Teatro Bolivar", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "63TeatroBolivarUIO.jpg", 
+      "name":"Teatro Bolivar", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Teatros"
+    },
+    { 
+      "src": "65Zaruma.jpg", 
+      "name":"Calles de Zaruma", 
+      "location":"Zaruma, El Oro", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Calles"
+    },
+    { 
+      "src": "60Amazonia.jpg", 
+      "name":"", 
+      "location":"Amazonía", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "88Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "89Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "90Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "90Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "104ExPenal.jpg", 
+      "name":"Expenal García Moreno prision", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Museos"
+    },
+    { 
+      "src": "106Sierra.jpg", 
+      "name":"Carihuairazo", 
+      "location":"Parque Nacional Chimborazo", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Bosques y Parques"
+    },
+    { 
+      "src": "107Sierra.jpg", 
+      "name":"Pasochoa", 
+      "location":"Reserva Pasochoa", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Bosques y Parques"
+    },
+    { 
+      "src": "108NarizdelDiablo.jpg", 
+      "name":"Nariz del Diablo", 
+      "location":"Alausí, Chimborazo", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Estaciones, Trenes"
+    },
+    { 
+      "src": "110Amazonia.jpg", 
+      "name":"", 
+      "location":"Amazonía", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "111Quito.jpg", 
+      "name":"La Compañía", 
+      "location":"Quito", 
+      "Category":"Infraestructura Pública", 
+      "Subcategory":"Iglesias"
+    },
+    { 
+      "src": "113Sierra.jpg", 
+      "name":"Acantilado de San Juan", 
+      "location":"San Juan, Chimborazo", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Cascadas, Rios y Lagunas"
+    },
+    { 
+      "src": "114Quito.jpg", 
+      "name":"Gonzalez Suares", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Calles"
+    },
+    { 
+      "src": "117UIO.jpg", 
+      "name":"San Juan", 
+      "location":"Quito", 
+      "Category":"Área Urbana", 
+      "Subcategory":"Calles"
+    },
+    { 
+      "src": "115Playa.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
+    },
+    { 
+      "src": "118Sierra.jpg", 
+      "name":"Playa", 
+      "location":"", 
+      "Category":"Escenario Natural", 
+      "Subcategory":"Playas y Acantilados"
     }
   ]
 }

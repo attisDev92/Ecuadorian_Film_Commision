@@ -161,6 +161,13 @@
     aspect-ratio: 1.3 / 2;
   }
   
+  .card__box {
+    top: 30%;
+    width: 70%;
+    height: 40%;
+    padding: 2rem;
+  }
+
   .image__box img {
     aspect-ratio: 1.3 / 2;
   }
@@ -193,6 +200,38 @@
   
   .card__box a {
     font-size: 0.7rem;
+  }
+
+}
+
+@media (max-width: 320px) {
+  
+  .arrows {
+    transform: scale(0.5);
+  }
+
+  .card__img:hover .arrows { 
+    transform: scale(0.6);
+  }
+  
+  .arrows__left {
+    right: 0.2rem;
+  }
+  
+  .arrows__right {
+    left: 0.2rem;
+  }
+  
+  .card__box h4 {
+    font-size: 0.8rem;
+  }
+
+  .card__box p {
+    font-size: 0.5rem;;
+  }
+  
+  .card__box a {
+    font-size: 0.5rem;
   }
 
 }

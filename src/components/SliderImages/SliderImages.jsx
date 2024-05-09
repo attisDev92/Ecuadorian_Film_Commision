@@ -87,7 +87,7 @@ const SliderImages = ({ text }) => {
                         />}
                     </div>
                     <div className={`${styles.arrows} ${styles.arrows__left}`}>
-                        <img src={leftArrow} alt="Left Arrow" />
+                        <img src={leftArrow} alt="Left Arrow"/>
                     </div>
                 </button >
 
