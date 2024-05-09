@@ -51,7 +51,8 @@ function Index({ text }) {
               <SuppliersCard 
                 key={proveedor.nombre}
                 idioma={text.idioma} 
-                proveedor={proveedor} 
+                proveedor={proveedor}
+                text={text}
               />
             ))
           }

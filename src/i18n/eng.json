@@ -57,38 +57,59 @@
   }, 
   "proveedoresSeccion": {
     "titulo": "Film Production Services",
+    "mailtext": "e-mail",
+    "contacttext": "Contact",
+    "phonetext": "Telephone",
+    "webtext": "Website",
     "proveedores": [
       {
         "nombre": "Ecuadorian audiovisual producers corporation - COPAE", 
-        "link": "#"
+        "mail": "copae@gmail.com",
+        "contacto": "Mariana Andrade",
+        "telefono": "+593 999733887",
+        "link": "www.copae.ec"
       },  
       {  
         "nombre": "Ecuadorian audiovisual producers association - APAE", 
-        "link": "#"
+        "mail": "info@apae.ec",
+        "contacto": "Nhora Salgado",
+        "telefono": "+593 991373625",
+        "link": "filminecuador.com"
       },  
       {
         "nombre": "Ecuadorian film technicians association - AETC",
-        "link": "#"
+        "mail": "aetccomunicacion@gmail.com",
+        "contacto": "",
+        "telefono": "",
+        "link": ""
       },  
       {  
         "nombre": "Ecuadorian documentary film proffesionals - ADEC", 
-        "link": "#"
+        "mail": "adececuador@gmail.com",
+        "contacto": "Marcela Camacho",
+        "telefono": "+593 984374307",
+        "link": "https://www.adececuador.org/"
       },  
       {  
-        "nombre": "Actors association - UNIARTE", 
-        "link": "#"
+        "nombre": "Actors association - UNIACTORES", 
+        "mail": "afiliadosuniactores@gmail.com",
+        "contacto": "Alex Altamirano",
+        "telefono": "+593 994221100",
+        "link": "https://www.instagram.com/uniactores_ec?igsh=bGU0eXd2ZzNvZjY0"
       },  
       {  
-        "nombre": "Ecuadorian independent film directors and screenwriters association", 
-        "link": "#"
+        "nombre": "Ecuadorian independent film directors and screenwriters association - ADG", 
+        "mail": "adgecuadorcine@gmail.com",
+        "contacto": "",
+        "telefono": "",
+        "link": "https://www.facebook.com/ADGECUADOR"
       },  
       {  
-        "nombre": "Indigenous nationalities cinema and audiovisual producers association",
-        "link": "#"
-      },  
-      {  
-        "nombre": "Ecuadorian photographers association", 
-        "link": "#"
+        "nombre": "Audiovisual workers of Ecuador - TAE", 
+        "mail": "trabajadoresaudiovisualesec@gmail.com",
+        "contacto": "Gabriela Jaramillo",
+        "telefono": "+593 999004024",
+        "link": "https://www.facebook.com/share/g52efzhCVSFUG51q/?mibextid=LQQJ4d"
       }
     ]
   },

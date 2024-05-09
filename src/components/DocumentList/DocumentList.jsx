@@ -6,7 +6,7 @@ const DocumentList = ({ text, documento }) => {
   return (
     <li className={styles.list__container}>
       <p>{documento.nombre}</p> <br />
-      <a href={documento.link}>
+      <a href='#'>
 
         <img src={rightArrow} />
         {
