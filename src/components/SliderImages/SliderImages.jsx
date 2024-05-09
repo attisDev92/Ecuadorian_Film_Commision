@@ -5,12 +5,14 @@ import rightArrow from '/assets/images/Icon-right-arrow.png'
 import imagesDataLocations from '../../data/data_img_locations.json'
 
 import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 
 const SliderImages = ({ text }) => {
 
     const [ currentImg, setCurrentImg ] = useState(1)
     const [ prevImg, setPrevImg ] = useState(0)
     const [ nextImg, setNextImg ] = useState(2)
+    const navigate = useNavigate()
 
     const generateImages = () => {
         const allImagesData = text.idioma === 'esp' 
@@ -20,7 +22,7 @@ const SliderImages = ({ text }) => {
         const copyAllImages = [...allImagesData]
         const randomImages = []
 
-        for (let i = 0; i < 5; i++) {
+        for (let i = 0; i < 8; i++) {
             const randomIndex = Math.floor(Math.random() * length.allImagesData)
             const imageRandom = copyAllImages.splice(randomIndex, 1)[0]
             randomImages.push(imageRandom)
@@ -61,6 +63,10 @@ const SliderImages = ({ text }) => {
         setCurrentImg(previousIndex)
         updateImages(previousIndex)
     }
+
+    const handleOnClick = () => {
+        navigate('/locations')
+    }
     
     return (
         <div className={styles.slider}>
@@ -94,7 +100,7 @@ const SliderImages = ({ text }) => {
                     <div className={styles.card__box}>
                         <h4>{selectedImagesData[currentImg].name}</h4>
                         <p>{selectedImagesData[currentImg].location} - Ecuador</p> <br/> 
-                        <a>
+                        <a onClick={handleOnClick}>
                             {
                                 text.idioma === 'esp' 
                                     ?  "ver más locaciones" 
