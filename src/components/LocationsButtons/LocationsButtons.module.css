@@ -16,3 +16,17 @@
   border: var(--border-primary-button);
   box-shadow: var(--button-shadow);
 }
+
+@media (max-width: 430px) {
+
+  .buttons_container {
+    gap: 1.5rem;
+  }
+  
+  .buttons_container button {
+    width: 5rem;
+    height: 1.7rem;
+    font-size: 0.8rem;
+  }
+  
+}

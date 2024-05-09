@@ -5,3 +5,21 @@
   aspect-ratio: 16/9;
   padding-block-start: 6rem;
 }
+
+@media (max-width: 430px) {
+  .container__video {
+    height: 100%;
+    aspect-ratio: 1.5/2;
+    padding-block-start: 6rem;
+  }
+
+  .container__video video {
+    height: 100%;
+  }
+}
+
+@media (max-width: 375px) {
+  .container__video {
+    padding-block-start: 5rem;
+  }
+}

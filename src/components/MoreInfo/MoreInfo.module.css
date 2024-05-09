@@ -4,8 +4,8 @@
   display: flex;
   flex-wrap: nowrap;
   position: absolute;
-  right: 2rem;
-  margin: 2rem;
+  right: 0;
+  margin: 5rem 2rem;
 }
 
 .moreInfo__container p {
@@ -27,4 +27,18 @@
   box-shadow: var(--button-shadow-hover);;
   border: var(--border-primary-button-hover);
   transform: scale(1.05);
+}
+
+@media (max-width: 430px) {
+
+  .moreInfo__container {
+    margin: 3rem 1rem;
+  }
+  
+  
+  .moreInfo__container button {
+    height: 1.7rem;
+    font-size: 0.8rem;
+  }
+
 }

@@ -102,3 +102,71 @@
   transform: scale(1.05);
   transition: all 0.3s ease-in-out;
 }
+
+@media (max-width: 768px) {
+
+  .suppliers__card {
+    padding: 1.5rem 1rem;
+    width: 15rem;
+    height: 12rem;
+  }
+  
+  .suppliers__card:hover {
+    transform: scale(1.02);
+  }
+  
+  .card__text {
+    font-size: 1.1rem;
+  }
+
+}
+
+@media (max-width: 430px) {
+
+  .suppliers__card {
+    padding: 2rem 1rem;
+    width: 100%;
+    height: 12rem;
+  }
+  
+  .card__text {
+    font-size: 1.2rem;
+  }
+  
+  .close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+  }
+  
+  .container__info {
+    gap: 1rem;
+    margin: 3rem auto;
+    width: 90%;
+    height: 90%;
+    padding: 10rem 2rem;
+    text-align: center;
+  }
+  
+  .contact {
+    font-size: 0.8rem;
+  }
+
+}
+
+@media (max-width: 375px) {
+
+  .container__info h3 {
+    font-size: 1.2rem;
+  }
+
+  .container__info {
+    margin: 3rem auto;
+    width: 90%;
+    height: 90%;
+    padding: 10rem 1rem;
+    text-align: center;
+  }
+}

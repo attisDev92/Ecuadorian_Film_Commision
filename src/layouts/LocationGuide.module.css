@@ -1,13 +1,11 @@
 @import url(../styles/stylesguide.css);
 
 .categories {
-  display: flex;
-  flex-direction: row;
-  gap: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   margin: 4rem auto;
   width: 90%;
   justify-content: center;
-  align-items: flex-start;
 }
 
 .location_cards {
@@ -16,7 +14,38 @@
   flex-wrap: wrap;
   width: 90%;
   margin: 1rem auto;
-  padding: 2rem;
   gap: 2rem;
   justify-content: center;
+}
+
+@media (max-width: 768px) {
+
+  .categories {
+    margin: 1rem auto;
+  }
+  
+  .location_cards {
+    gap: 1rem;
+  }
+
+}
+
+@media (max-width: 430px) {
+
+  .categories {
+    width: 100%;
+  }
+  
+  .location_cards {
+    width: 100%;
+  }
+  
+}
+
+@media (max-width: 375px) {
+
+  .location_cards {
+    gap: 0.5rem;
+  }
+
 }

@@ -10,3 +10,12 @@
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width: 768) {
+  
+  .container__suppliers {
+    gap: 1rem;
+    width: 100%;
+  }
+
+}

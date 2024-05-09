@@ -30,9 +30,13 @@ const LocationGuide = ({ text }) => {
     }
   }
 
-
   return (
-    <Section id={"locations_Guide"} text={text} title={text.LocationGuide.title}>
+
+    <Section 
+      id={"locations_Guide"} 
+      text={text} 
+      title={text.LocationGuide.title}
+    >
       
       <div className={styles.categories}>
         {
