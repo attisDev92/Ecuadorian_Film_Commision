@@ -34,7 +34,7 @@
   --color-green: #00a75a;
 
   /* types */
-  --font-family-primary: "Helvetica", Helvetica;
+  --font-family-primary: "Helvetica", Helvetica, Arial;
   --font-weight-h1: 900;
   --font-size-h1: 60px;
   --font-weight-h2: 900;

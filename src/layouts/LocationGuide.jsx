@@ -12,7 +12,7 @@ import styles from './LocationGuide.module.css'
 
 const LocationGuide = ({ text }) => {
 
-  const [ imagesNumber, setImagesNumber ] = useState(20)
+  const [ imagesNumber, setImagesNumber ] = useState(21)
 
   const categories = text.idioma === 'esp' ? categoriesData.categorias_esp : categoriesData.categorias_eng
   const imagesData = text.idioma == 'esp' ? imagesDataFull.español : imagesDataFull.english

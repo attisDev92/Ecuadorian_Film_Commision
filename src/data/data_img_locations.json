@@ -65,13 +65,6 @@
       "Subcategory":"Museos"
     },
     { 
-      "src": "31ExPenalGarciaMoreno.jpg", 
-      "name":"Former García Moreno prision", 
-      "location":"Quito", 
-      "Category":"Infraestructura Pública", 
-      "Subcategory":"Museos"
-    },
-    { 
       "src": "85Seleccion2Cuenca.jpg", 
       "name":"Cuenca Cathedral", 
       "location":"Cuenca", 
@@ -93,7 +86,7 @@
       "Subcategory":"Playas y Acantilados"
     },
     { 
-      "src": "08CacadaMagica.jpg", 
+      "src": "08CascadaMagica.jpg", 
       "name":"Cascada Mágica", 
       "location":"El Chaco", 
       "Category":"Escenario Natural", 
@@ -114,21 +107,7 @@
       "Subcategory":"Montañas"
     },
     { 
-      "src": "32IglesiaBasilica.jpg", 
-      "name":"Basílica church", 
-      "location":"Quito", 
-      "Category":"Área Urbana", 
-      "Subcategory":"Iglesias"
-    },
-    { 
       "src": "33IglesiaBasilica.jpg", 
-      "name":"Basílica church", 
-      "location":"Quito", 
-      "Category":"Área Urbana", 
-      "Subcategory":"Iglesias"
-    },
-    { 
-      "src": "34IglesiaBasilica.jpg", 
       "name":"Basílica church", 
       "location":"Quito", 
       "Category":"Área Urbana", 
@@ -240,20 +219,6 @@
       "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "70Amazonia.jpg", 
-      "name":"", 
-      "location":"Amazonía", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Cascadas, Rios y Lagunas"
-    },
-    { 
-      "src": "08CascadaMagica.jpg", 
-      "name":"", 
-      "location":"", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Cascadas, Rios y Lagunas"
-    },
-    { 
       "src": "31ExPenalGarciaMoreno.jpg", 
       "name":"Former García Moreno prision", 
       "location":"Quito", 
@@ -262,13 +227,6 @@
     },
     { 
       "src": "32IglesiaBasilica.jpg", 
-      "name":"Basílica church", 
-      "location":"Quito", 
-      "Category":"Infraestructura Pública", 
-      "Subcategory":"Iglesias"
-    },
-    { 
-      "src": "33IglesiaBasilica.jpg", 
       "name":"Basílica church", 
       "location":"Quito", 
       "Category":"Infraestructura Pública", 
@@ -436,13 +394,6 @@
       "Subcategory":"Calles"
     },
     { 
-      "src": "60Amazonia.jpg", 
-      "name":"", 
-      "location":"Amazonía", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Cascadas, Rios y Lagunas"
-    },
-    { 
       "src": "88Playa.jpg", 
       "name":"Playa", 
       "location":"", 
@@ -451,13 +402,6 @@
     },
     { 
       "src": "89Playa.jpg", 
-      "name":"Playa", 
-      "location":"", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Playas y Acantilados"
-    },
-    { 
-      "src": "90Playa.jpg", 
       "name":"Playa", 
       "location":"", 
       "Category":"Escenario Natural", 
@@ -535,13 +479,6 @@
     },
     { 
       "src": "115Playa.jpg", 
-      "name":"Playa", 
-      "location":"", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Playas y Acantilados"
-    },
-    { 
-      "src": "118Sierra.jpg", 
       "name":"Playa", 
       "location":"", 
       "Category":"Escenario Natural", 
@@ -641,7 +578,7 @@
       "Subcategory":"Calles"
     },
     { 
-      "src": "08CacadaMagica.jpg", 
+      "src": "08CascadaMagica.jpg", 
       "name":"Cascada Mágica", 
       "location":"El Chaco", 
       "Category":"Escenario Natural", 
@@ -662,21 +599,7 @@
       "Subcategory":"Montañas"
     },
     { 
-      "src": "32IglesiaBasilica.jpg", 
-      "name":"Iglesia Basílica", 
-      "location":"Quito", 
-      "Category":"Área Urbana", 
-      "Subcategory":"Iglesias"
-    },
-    { 
       "src": "33IglesiaBasilica.jpg", 
-      "name":"Iglesia Basílica", 
-      "location":"Quito", 
-      "Category":"Área Urbana", 
-      "Subcategory":"Iglesias"
-    },
-    { 
-      "src": "34IglesiaBasilica.jpg", 
       "name":"Iglesia Basílica", 
       "location":"Quito", 
       "Category":"Área Urbana", 
@@ -788,35 +711,7 @@
       "Subcategory":"Cascadas, Rios y Lagunas"
     },
     { 
-      "src": "70Amazonia.jpg", 
-      "name":"", 
-      "location":"Amazonía", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Cascadas, Rios y Lagunas"
-    },
-    { 
-      "src": "08CascadaMagica.jpg", 
-      "name":"", 
-      "location":"", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Cascadas, Rios y Lagunas"
-    },
-    { 
-      "src": "31ExPenalGarciaMoreno.jpg", 
-      "name":"Expenal García Moreno prision", 
-      "location":"Quito", 
-      "Category":"Infraestructura Pública", 
-      "Subcategory":"Museos"
-    },
-    { 
       "src": "32IglesiaBasilica.jpg", 
-      "name":"Iglesia Basílica", 
-      "location":"Quito", 
-      "Category":"Infraestructura Pública", 
-      "Subcategory":"Iglesias"
-    },
-    { 
-      "src": "33IglesiaBasilica.jpg", 
       "name":"Iglesia Basílica", 
       "location":"Quito", 
       "Category":"Infraestructura Pública", 
@@ -984,13 +879,6 @@
       "Subcategory":"Calles"
     },
     { 
-      "src": "60Amazonia.jpg", 
-      "name":"", 
-      "location":"Amazonía", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Cascadas, Rios y Lagunas"
-    },
-    { 
       "src": "88Playa.jpg", 
       "name":"Playa", 
       "location":"", 
@@ -999,13 +887,6 @@
     },
     { 
       "src": "89Playa.jpg", 
-      "name":"Playa", 
-      "location":"", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Playas y Acantilados"
-    },
-    { 
-      "src": "90Playa.jpg", 
       "name":"Playa", 
       "location":"", 
       "Category":"Escenario Natural", 
@@ -1083,13 +964,6 @@
     },
     { 
       "src": "115Playa.jpg", 
-      "name":"Playa", 
-      "location":"", 
-      "Category":"Escenario Natural", 
-      "Subcategory":"Playas y Acantilados"
-    },
-    { 
-      "src": "118Sierra.jpg", 
       "name":"Playa", 
       "location":"", 
       "Category":"Escenario Natural", 
