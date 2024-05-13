@@ -19,7 +19,7 @@ import "./App.css"
 
 function App() {
 
-  const [keyLanguajeSelected, setKeyLanguajeSelected] = useState('español')
+  const [keyLanguajeSelected, setKeyLanguajeSelected] = useState('english')
 
   const handleChangeLanguaje = (languaje) => {
     if(languaje === 'español') {

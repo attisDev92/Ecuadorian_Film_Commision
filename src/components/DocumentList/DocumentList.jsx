@@ -1,11 +1,11 @@
 import styles from './DocumentList.module.css'
 
-const DocumentList = ({ text, documento }) => {
+const DocumentList = ({ text, document }) => {
 
   return (
     <li className={styles.list__container}>
-      <p>{documento.nombre}</p> <br />
-      <a href='#' target='_blank'>
+      <p>{document.nombre}</p> <br />
+      <a href={document.link} target='_blank'>
         
         <button className={styles.Btn}>
           <svg className={styles.svgIcon} 

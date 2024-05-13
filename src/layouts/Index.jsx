@@ -31,7 +31,7 @@ function Index({ text }) {
               return (
                 <DocumentList 
                   text={text}
-                  documento={documento} 
+                  document={documento} 
                   key={documento.nombre} 
                 />
               )
