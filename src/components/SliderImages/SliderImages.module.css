@@ -170,6 +170,8 @@
 
   .image__box img {
     aspect-ratio: 1.3 / 2;
+    height: 100%;
+    width: auto;
   }
   
   .arrows {
