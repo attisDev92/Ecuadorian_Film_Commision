@@ -49,7 +49,7 @@ const SuppliersCard = ({
                         {text.proveedoresSeccion.phonetext}: {proveedor.telefono}</li>
                     <li>
                         {text.proveedoresSeccion.webtext}: 
-                        <a target='blank' href={proveedor.link}>
+                        <a target='blank' href={`http://${proveedor.link}`}>
                             {proveedor.link}
                         </a> 
                     </li>
